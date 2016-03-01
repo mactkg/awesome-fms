@@ -19,6 +19,7 @@ FMS生が参考にできる文献・ツール集です．授業を横断する�
 ### 国内
 - [インタラクション](http://www.interaction-ipsj.org/)
 - [WISS](http://www.wiss.org/)
+- [DEIM](http://db-event.jpn.org/deim2016)(リンクは2016)
 
 ### 国外
 - [CHI](http://www.sigchi.org/)(毎年ドメインが変わるようなのでSIGCHI)
@@ -26,3 +27,8 @@ FMS生が参考にできる文献・ツール集です．授業を横断する�
 - [Ubicomp](http://ubicomp.org/)
 - [CSCW](http://cscw.acm.org/)
 - [SIGGRAPH](http://www.siggraph.org/)
+
+## 論文検索
+- [Google Scholar](https://scholar.google.co.jp/)
+- [ACM Digital Library](ACM Digital Library)
+- [情報学広場：情報処理学会電子図書館](https://ipsj.ixsq.nii.ac.jp/ej/)
