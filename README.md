@@ -4,8 +4,13 @@ FMS生が参考にできる文献・ツール集です．授業を横断する�
 ## Processing
 - [オフィシャルページ](https://processing.org/)
 
-## Arduino
-- [オフィシャルページ](http://arduino.cc/)
+## 電子工作
+- [Arduino](http://arduino.cc/)
+- [Raspberry Pi](https://www.raspberrypi.org/)
+  - [JAISTのイメージミラーサイト](http://ftp.jaist.ac.jp/pub/raspberrypi/raspbian/images/) - 本家から落とすより全然早い
+- [Intel Edison](http://www.intel.co.jp/content/www/jp/ja/do-it-yourself/edison.html)
+- [mbed](https://www.mbed.com/en/)
+- [Phidgets](www.phidgets.com)
 
 ## 学会発表
 - [伝わるデザイン | 研究発表のユニバーサルデザイン](http://tsutawarudesign.web.fc2.com/)
