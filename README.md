@@ -18,6 +18,7 @@ FMS生が参考にできる文献・ツール集です．授業を横断する�
 ## 学会
 ### 国内
 - [インタラクション](http://www.interaction-ipsj.org/)
+- [WISS](http://www.wiss.org/)
 
 ### 国外
 - [CHI](http://www.sigchi.org/)(毎年ドメインが変わるようなのでSIGCHI)
