@@ -5,12 +5,25 @@ FMS生が参考にできる文献・ツール集です．授業を横断する�
 - [オフィシャルページ](https://processing.org/)
 
 ## 電子工作
-- [Arduino](http://arduino.cc/)
-- [Raspberry Pi](https://www.raspberrypi.org/)
+### メインボード
+- [Arduino](http://arduino.cc/) - 簡単に電子工作ができるツールキット．Cのような言語で書く．コミュニティが大きい
+- [Raspberry Pi](https://www.raspberrypi.org/) - $30PC．安くて組み込みやすい．Linuxが動くので様々な言語が動く．コミュニティが大きい
   - [JAISTのイメージミラーサイト](http://ftp.jaist.ac.jp/pub/raspberrypi/raspbian/images/) - 本家から落とすより全然早い
-- [Intel Edison](http://www.intel.co.jp/content/www/jp/ja/do-it-yourself/edison.html)
-- [mbed](https://www.mbed.com/en/)
-- [Phidgets](www.phidgets.com)
+- [Intel Edison](http://www.intel.co.jp/content/www/jp/ja/do-it-yourself/edison.html) - Intelが出した切手サイズのコンピュータ．BluetoothやWi-Fi内蔵．7000円くらい
+- [mbed](https://www.mbed.com/en/) - Arduinoを使っているけど速度が足りない時に
+- [Phidgets](www.phidgets.com) - 昔のArduinoみたいなもの．コンピュータに繋いでつかう．
+
+### ショップ
+#### 国内
+- [スイッチサイエンス](https://www.switch-science.com/) - Webショップ．基板作ったりもやってくれる
+- [秋月電子通商](http://akizukidenshi.com/catalog/default.aspx) - 秋葉原に店舗あり．抵抗やコンデンサなどの基本的なパーツはここが安い
+- [千石](https://www.sengoku.co.jp/) - 秋葉原に店舗あり．
+- [西川](http://nishikawa.or.tv/) - 秋葉原に店舗あり．ネジならここ!
+
+#### 国外
+- [Sparkfun](https://www.sparkfun.com/)
+- [Adafruit](https://www.adafruit.com/)
+- [Seeed Studio](http://www.seeedstudio.com/depot/)
 
 ## 学会発表
 - [伝わるデザイン | 研究発表のユニバーサルデザイン](http://tsutawarudesign.web.fc2.com/)
