@@ -6,6 +6,14 @@ FMS生が参考にできる文献・ツール集です．授業を横断する�
 - [Processing.js](http://processingjs.org/) - ProcessingをWebで動かす! 中身はProcessingを無理やりJSに変換している
 - [p5.js](http://p5js.org) - Web版のProcessing．Processing.jsよりWebのボタンなど各要素との連携がしやすい
 
+## openFrameworks
+Processingでは速度が足りない時に．
+
+- [オフィシャルページ](http://openframeworks.cc/)
+- [yoppa.org](http://yoppa.org/) - oFの本などで有名な田所先生のサイト．oFの入門記事だけではなく様々なツールの授業資料がたくさん
+- [ofxAddons](http://www.ofxaddons.com/categories) - oFのAddonの閲覧サイト
+- [OFXcodeMenu](https://github.com/openframeworks/OFXcodeMenu) - oFのAddon追加を簡単にするツール(OSX用)
+
 ## 電子工作
 ### メインボード
 - [Arduino](http://arduino.cc/) - 簡単に電子工作ができるツールキット．Cのような言語で書く．コミュニティが大きい
@@ -41,11 +49,16 @@ FMS生が参考にできる文献・ツール集です．授業を横断する�
 ### サーバー
 - [Heroku](https://www.heroku.com/) - gitでコードをアップすると自動的に外部で起動して動かしてくれるサービス 無料枠あり
 
+## 便利ツール
+- [Dropbox](https://www.dropbox.com/) - データを共有するためのサービス．あるフォルダ内が自動で同期される
+- [Google Drive](drive.google.com) - データを共有するためのサービス．フォルダを共有して資料をやり取りしたりできる
+
 ## 情報収集
 ### プログラミング
 - [Qiita](http://qiita.com) - 技術メモを書く所．入門記事や解説記事がたくさん
 
 ### ニュース
+- [CreativeApplications.net](http://www.creativeapplications.net/) - テクノロジーを用いたアート作品に関する記事が沢山
 - [TechCrunch](http://jp.techcrunch.com/) - テクノロジー系の記事やベンチャー系の記事
 - [はてなブックマーク](http://b.hatena.ne.jp/) - ソーシャルブックマークサービス ブックマーク数で話題の記事を抽出
 
